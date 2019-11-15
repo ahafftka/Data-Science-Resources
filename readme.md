@@ -4,7 +4,8 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ## Theory
 ### Bayesian Statistics
 * [Towards Data Science: Markov Chain Monte Carlo](https://towardsdatascience.com/markov-chain-monte-carlo-291d8a5975ae)
-
+* [Deviance Information Criterion - Spiegelhalter](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9868.00353)
+* [Markov Switching Criterion - MSC - Smith, Naik, Tsai](https://gsm.ucdavis.edu/sites/main/files/file-attachments/07markovswitchingmodel.pdf)
 
 ## Basic Courses
 ### SQL
