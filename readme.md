@@ -7,6 +7,15 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Deviance Information Criterion - Spiegelhalter](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9868.00353)
 * [Markov Switching Criterion - MSC - Smith, Naik, Tsai](https://gsm.ucdavis.edu/sites/main/files/file-attachments/07markovswitchingmodel.pdf)
 
+### Deep Learning
+#### Grid Search
+* [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
+
+## Collections of Papers
+* [Google AI Papers](https://ai.google/research/pubs/)
+* [Facebook Publications](https://research.fb.com/publications/)
+
+
 ## Basic Courses
 ### SQL
 * https://www.codecademy.com/learn/learn-sql
