@@ -12,6 +12,11 @@ Collection of Data Science Resources -- intended to help others get started.  To
 #### Grid Search
 * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
 
+### Graph Neural Nets
+* [DeepMind GraphNets](https://github.com/deepmind/graph_nets)
+* [AliGraph paper](https://arxiv.org/abs/1902.08730)
+* [AliGraph Code](https://github.com/hp027/AliGraph)
+
 ## Collections of Papers
 * [Google AI Papers](https://ai.google/research/pubs/)
 * [Facebook Publications](https://research.fb.com/publications/)
