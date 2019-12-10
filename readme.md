@@ -31,6 +31,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * https://www.edx.org/course/introduction-to-python-for-data-science-4
 * https://www.coursera.org/learn/python-data-analysis
 
+### Reinforcement Learning
+* https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome
+
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
 
