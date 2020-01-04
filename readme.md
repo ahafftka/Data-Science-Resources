@@ -18,8 +18,8 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [AliGraph Code](https://github.com/hp027/AliGraph)
 
 ### Monte Carlo Methods
-- Importance sampling: https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744
-- Monte Carlo course and book by Art B. Owen: https://statweb.stanford.edu/~owen/mc/
+- [Importance sampling intro](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)
+- [Monte Carlo course and book by Art B. Owen](https://statweb.stanford.edu/~owen/mc/)
 
 ## Collections of Papers
 * [Google AI Papers](https://ai.google/research/pubs/)
