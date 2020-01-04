@@ -20,6 +20,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Monte Carlo Methods
 - [Importance sampling intro](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)
 - [Monte Carlo course and book by Art B. Owen](https://statweb.stanford.edu/~owen/mc/)
+- [Importance Sampling: Applications in Communications and Detection](https://books.google.com/books?id=SgmrCAAAQBAJ)
 
 ## Collections of Papers
 * [Google AI Papers](https://ai.google/research/pubs/)
