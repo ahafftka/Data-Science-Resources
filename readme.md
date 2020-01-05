@@ -42,6 +42,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * http://rail.eecs.berkeley.edu/deeprlcourse/
 * David Silver Lecture notes: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 * John Schulman videos: https://www.youtube.com/watch?v=aUrX-rP_ss4
+* [Backup Diagrams](https://towardsdatascience.com/all-about-backup-diagram-fefb25aaf804)
 
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
