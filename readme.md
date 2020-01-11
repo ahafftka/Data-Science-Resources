@@ -9,10 +9,13 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Towards Data Science: Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 
 ### Deep Learning
-#### Grid Search
-* [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
+
+### Neural Networks
 * [Deep Residual Learning](https://arxiv.org/abs/1512.03385)
 * [Deep Belief Nets](http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf)
+
+#### Grid Search
+* [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
 
 ### Graph Neural Nets
 * [DeepMind GraphNets](https://github.com/deepmind/graph_nets)
