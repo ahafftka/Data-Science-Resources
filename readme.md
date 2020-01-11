@@ -11,6 +11,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Deep Learning
 #### Grid Search
 * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
+* [Deep Residual Learning](https://arxiv.org/abs/1512.03385)
 
 ### Graph Neural Nets
 * [DeepMind GraphNets](https://github.com/deepmind/graph_nets)
