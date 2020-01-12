@@ -50,6 +50,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * John Schulman videos: https://www.youtube.com/watch?v=aUrX-rP_ss4
 * [Backup Diagrams](https://towardsdatascience.com/all-about-backup-diagram-fefb25aaf804)
 
+### Probabilistic Modeling 
+* [Probabilistic Graphical Models Course](https://www.coursera.org/specializations/probabilistic-graphical-models#courses)
+
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
 
