@@ -55,6 +55,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 
 ### Probabilistic Modeling 
 * [Probabilistic Graphical Models Course](https://www.coursera.org/specializations/probabilistic-graphical-models#courses)
+* [Statistical Rethinking - Course on Bayesian Statistics and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
