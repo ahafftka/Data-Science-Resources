@@ -9,6 +9,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Towards Data Science: Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Bayesian Data Analysis - Gelman](http://www.stat.columbia.edu/~gelman/book/)
+* [PyStan Intro](https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53)
 
 ### Deep Learning
 
