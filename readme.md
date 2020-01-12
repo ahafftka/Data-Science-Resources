@@ -10,6 +10,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Bayesian Data Analysis - Gelman](http://www.stat.columbia.edu/~gelman/book/)
 * [PyStan Intro](https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53)
+* [Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
 ### Deep Learning
 
