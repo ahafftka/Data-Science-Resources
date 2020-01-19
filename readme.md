@@ -79,3 +79,4 @@ Collection of Data Science Resources -- intended to help others get started.  To
 
 ### Reinforcement Learning
 * [Keras Gym](https://github.com/KristianHolsheimer/keras-gym)
+* [Reinforcement Learning in Tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
