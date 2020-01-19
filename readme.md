@@ -82,4 +82,5 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Reinforcement Learning in Tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 * [Keras RL](https://github.com/keras-rl/keras-rl)
 * [Mushroom RL](https://mushroomrl.readthedocs.io/en/latest/)
+* [Tensorforce](https://github.com/tensorforce/tensorforce)
 
