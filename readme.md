@@ -74,3 +74,8 @@ Collection of Data Science Resources -- intended to help others get started.  To
 
 ### Interview Practice
 * [Cracking the Coding Interview - McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+## Code
+
+### Reinforcement Learning
+* [Keras Gym](https://github.com/KristianHolsheimer/keras-gym)
