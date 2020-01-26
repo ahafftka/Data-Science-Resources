@@ -16,6 +16,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Agnostic System Identification for Model-Based Reinforcement Learning](https://arxiv.org/abs/1203.1007)
 * [No-Regret Learning in Unknown Games with Correlated Payoffs](https://arxiv.org/abs/1909.08540)
 * [Determining the optimal temperature parameter for Softmax function in reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618302758)
+* [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275)
 
 ### Deep Learning
 
