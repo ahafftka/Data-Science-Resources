@@ -22,6 +22,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 
 ### Deep Learning
 
+### Books
+* [Deep Learning Book](https://www.deeplearningbook.org)
+
 ### Neural Networks
 * [Deep Residual Learning](https://arxiv.org/abs/1512.03385)
 * [Deep Belief Nets](http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf)
