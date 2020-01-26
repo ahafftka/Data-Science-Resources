@@ -12,6 +12,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [PyStan Intro](https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53)
 * [Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
+### Reinforcement Learning
+* [Agnostic System Identification for Model-Based Reinforcement Learning](https://arxiv.org/abs/1203.1007)
+
 ### Deep Learning
 
 ### Neural Networks
