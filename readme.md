@@ -24,6 +24,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Deep Belief Nets](http://www.cs.toronto.edu/~fritz/absps/ncfast.pdf)
 * [Backpropagation Derivation](https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d)
 * [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599)
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 
 #### Grid Search
 * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
