@@ -18,6 +18,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Determining the optimal temperature parameter for Softmax function in reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494618302758)
 * [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275)
 * [Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](https://link.springer.com/content/pdf/10.1007/11564096_32.pdf)
+* [Human-level control through deep reinforcement learning (DQN)](https://daiwk.github.io/assets/dqn.pdf)
 
 ### Deep Learning
 
