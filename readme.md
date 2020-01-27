@@ -19,6 +19,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275)
 * [Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](https://link.springer.com/content/pdf/10.1007/11564096_32.pdf)
 * [Human-level control through deep reinforcement learning (DQN)](https://daiwk.github.io/assets/dqn.pdf)
+* [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises - Book](https://web.stanford.edu/group/pdplab/pdphandbook/)
 
 ### Deep Learning
 
