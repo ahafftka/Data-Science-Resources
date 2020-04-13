@@ -89,6 +89,10 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Useful Handbooks
 * [Hands on Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
+### Theory
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Deep Learning Book](https://www.deeplearningbook.org)
+
 ### Professional Coding
 * [Clean Code - Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/)
 
