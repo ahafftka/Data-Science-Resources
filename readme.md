@@ -37,6 +37,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v2)
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
 * [Luong Attention](https://arxiv.org/abs/1508.04025)
+* [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
 #### Grid Search
 * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/abs/1711.00436)
@@ -85,6 +86,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * https://www.kaggle.com
 
 ## Books
+### Useful Handbooks
+* [Hands on Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
 ### Professional Coding
 * [Clean Code - Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/)
 
