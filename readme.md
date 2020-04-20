@@ -66,6 +66,20 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Python
 * https://www.edx.org/course/introduction-to-python-for-data-science-4
 * https://www.coursera.org/learn/python-data-analysis
+* https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/
+* https://www.udemy.com/course/python-programming-algorithms-data-structures/
+* https://www.udemy.com/course/introduction-to-data-structures/
+
+### Algorithms
+* https://www.cs.princeton.edu/courses/archive/fall14/cos226/lectures.php
+* https://www.coursera.org/learn/algorithmic-thinking-1#syllabus
+* https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+* http://cs.brown.edu/courses/cs016/lectures.html
+* http://web.stanford.edu/class/cs166/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/
+* http://web.eecs.umich.edu/~sugih/courses/eecs281/syllabus.html
+* https://classes.engineering.wustl.edu/cse241/
+
 
 ### Reinforcement Learning
 * https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome
