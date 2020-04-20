@@ -72,7 +72,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 
 ### Algorithms
 * https://www.cs.princeton.edu/courses/archive/fall14/cos226/lectures.php
-* https://www.coursera.org/learn/algorithmic-thinking-1#syllabus
+* https://www.coursera.org/specializations/data-structures-algorithms
 * https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 * http://cs.brown.edu/courses/cs016/lectures.html
 * http://web.stanford.edu/class/cs166/
