@@ -11,6 +11,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Bayesian Data Analysis - Gelman](http://www.stat.columbia.edu/~gelman/book/)
 * [PyStan Intro](https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53)
 * [Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
+* [Conditional Random Fields for Object Recognition](https://papers.nips.cc/paper/2652-conditional-random-fields-for-object-recognition)
 
 ### Reinforcement Learning
 * [Agnostic System Identification for Model-Based Reinforcement Learning](https://arxiv.org/abs/1203.1007)
