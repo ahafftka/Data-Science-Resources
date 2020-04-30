@@ -12,6 +12,9 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [PyStan Intro](https://towardsdatascience.com/an-introduction-to-bayesian-inference-in-pystan-c27078e58d53)
 * [Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 * [Conditional Random Fields for Object Recognition](https://papers.nips.cc/paper/2652-conditional-random-fields-for-object-recognition)
+* [A Conditional Random Field model for font forgery detection](https://ieeexplore.ieee.org/document/7333827)
+* [Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation](https://www.sciencedirect.com/science/article/pii/S0167404812001812)
+
 
 ### Reinforcement Learning
 * [Agnostic System Identification for Model-Based Reinforcement Learning](https://arxiv.org/abs/1203.1007)
