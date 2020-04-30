@@ -14,6 +14,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Conditional Random Fields for Object Recognition](https://papers.nips.cc/paper/2652-conditional-random-fields-for-object-recognition)
 * [A Conditional Random Field model for font forgery detection](https://ieeexplore.ieee.org/document/7333827)
 * [Phishing detection and impersonated entity discovery using Conditional Random Field and Latent Dirichlet Allocation](https://www.sciencedirect.com/science/article/pii/S0167404812001812)
+* [Approximation algorithms for classification problems with pairwise relationships: metric labeling and Markov random fields](https://dl.acm.org/doi/abs/10.1145/585265.585268)
 
 
 ### Reinforcement Learning
