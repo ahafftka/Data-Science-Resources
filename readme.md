@@ -85,7 +85,6 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * http://web.eecs.umich.edu/~sugih/courses/eecs281/syllabus.html
 * https://classes.engineering.wustl.edu/cse241/
 
-
 ### Reinforcement Learning
 * https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome
 * http://rail.eecs.berkeley.edu/deeprlcourse/
@@ -96,9 +95,13 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Probabilistic Modeling 
 * [Probabilistic Graphical Models Course](https://www.coursera.org/specializations/probabilistic-graphical-models#courses)
 * [Statistical Rethinking - Course on Bayesian Statistics and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+* [AB Testing](https://www.udacity.com/course/ab-testing--ud257)
+* [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)
+* [Design and Interpretation of Clinical Trials](https://www.coursera.org/learn/clinical-trials/home/welcome)
 
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
+* https://www.coursera.org/specializations/deep-learning#courses
 
 ### Coding Practice
 * https://www.hackerrank.com
