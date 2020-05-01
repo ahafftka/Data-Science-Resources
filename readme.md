@@ -102,6 +102,7 @@ Collection of Data Science Resources -- intended to help others get started.  To
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
 * https://www.coursera.org/specializations/deep-learning#courses
+* [Stanford - CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/archive/cs/cs221/cs221.1196/)
 
 ### Coding Practice
 * https://www.hackerrank.com
