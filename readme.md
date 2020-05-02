@@ -98,11 +98,17 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [AB Testing](https://www.udacity.com/course/ab-testing--ud257)
 * [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/)
 * [Design and Interpretation of Clinical Trials](https://www.coursera.org/learn/clinical-trials/home/welcome)
+* [Causal Inference](https://www.coursera.org/learn/causal-inference/)
+* [A Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality/)
 
 ### Machine Learning
 * https://www.coursera.org/learn/machine-learning
 * https://www.coursera.org/specializations/deep-learning#courses
 * [Stanford - CS221: Artificial Intelligence: Principles and Techniques](https://web.stanford.edu/class/archive/cs/cs221/cs221.1196/)
+
+### Information Theory
+* [Information Theory](https://www.coursera.org/learn/information-theory?)
+* [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto?)
 
 ### Coding Practice
 * https://www.hackerrank.com
@@ -133,6 +139,22 @@ Collection of Data Science Resources -- intended to help others get started.  To
 * [Keras RL](https://github.com/keras-rl/keras-rl)
 * [Mushroom RL](https://mushroomrl.readthedocs.io/en/latest/)
 * [Tensorforce](https://github.com/tensorforce/tensorforce)
+
+### Probabalistic Graphical Models
+* [pgmpy](https://github.com/pgmpy/pgmpy)
+
+### Distributed Computing
+* [Spark](https://spark.apache.org)
+* [Dask](https://dask.org)
+
+### Visualization
+* [Bokeh](https://docs.bokeh.org/en/latest/index.html)
+* [Seaborn](https://seaborn.pydata.org)
+
+### NLP
+* [spaCy](https://spacy.io)
+* [gensim](https://github.com/RaRe-Technologies/gensim)
+* [NLTK](https://github.com/nltk/nltk)
 
 ## Course Materials
 * [Some materials from Coursera courses](https://github.com/shenweichen/Coursera)
